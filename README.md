@@ -1,5 +1,10 @@
 # Listen_Carefully
 
+
+- [English README](README.md)
+- [中文 README](README.zh.md)
+
+
 ## What is Listen_Carefully ?
 
 Listen_Carefully is an offline and free white noise player , help people fall asleep quickly , but it currently only supports Chinese .
