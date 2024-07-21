@@ -1,5 +1,10 @@
 # 聆 · 音
 
+
+- [English README](README.md)
+- [中文 README](README.zh.md)
+
+
 ## 什么是 聆 · 音？
 
 聆 · 音 是一款离线且免费的白噪音播放器，帮助人们快速入睡，但是目前只支持中文。
