@@ -8,7 +8,7 @@
 
 ## Introduce
 
-**Listen_Carefully** is an offline and free white noise player , help people fall asleep quickly , but it currently only supports Chinese .
+**Listen_Carefully** is an offline 和 free white noise player , help people fall asleep quickly , but it currently only supports Chinese .
 
 ##  Development Background
 
@@ -18,12 +18,12 @@ One day , after a friend recommended it , I learned about white noise . I still 
 
 Until one day , I discovered a website where I heard the best white noise I have ever heard . After using it a few times , I found it inconvenient , so I suddenly thought : Is it possible to use this website through After some transformation and optimization , I made it a white noise APP that is completely free and offline run ? 
 
-Just do it , my friends and I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " listen to the light and have peace of mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
+Just do it , my friends 和 I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " listen to the light and have peace of mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
 
 ## Get Started
 
-1. Download  
-Go to our [Repository] (https://github.com/JiGuroLGC/Listen_Carefully) , open the `release` page , and download the [latest release software](https://github.com/JiGuroLGC/Listen_Carefully/releases) that matches your system environment .  
+1. 下载  
+Go to our [Repository](https://github.com/JiGuroLGC/Listen_Carefully) , open the `release` page , and download the [latest release software](https://github.com/JiGuroLGC/Listen_Carefully/releases) that matches your system environment .  
 If you are a user in a special area and cannot access it due to the network environment , please go to other questions to view the answers .
 
 2. Installation  
@@ -36,7 +36,7 @@ Run the software and enjoy !
 
 <a href="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" alt="Test Screenshot 1.png" style="border-radius: 100px"></a>
 
-**Listen_Carefully** has exquisite animations and ultimate sound effects . Because the web page is directly packaged into the installation package , this software can run completely offline without being disturbed by any network factors , ensuring that you can sleep quietly and smoothly .
+**Listen_Carefully** has exquisite animations 和 ultimate sound effects . Because the web page is directly packaged into the installation package , this software can run completely offline without being disturbed by any network factors , ensuring that you can sleep quietly 和 smoothly .
 
 <a href="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" alt="Test Screenshot 2.png" style="border-radius: 100px"></a>
 
@@ -53,7 +53,7 @@ Run the software and enjoy !
    A  : Because we have just started development **Listen_Carefully** , and due to our work , we can only squeeze out free time on the weekend to write code . But for the known white noise software on the market and for the actual needs in daily life , these features are completely sufficient .
 
 3. Q : I am a special area user , what should I do if I have access problems ?  
-   A  : It doesn't matter , we have prepared an alternate download link for you , and we guarantee that the software downloaded by the alternate link is exactly the same as the distro . And we also have our repositories in open source communities such as Gitee , so you can move to other open source communities to download .  
+   A : It doesn't matter , we have prepared an alternate download link for you , 和 we guarantee that the software downloaded by the alternate link is exactly the same as the distro . And we also have our repositories in open source communities such as Gitee , so you can move to other open source communities to download .  
    *Link to Gitee open source community repository : https://gitee.com/jiguro/Listen_Carefully*  
    *Alternate link 1 : Lan Zouyun ( https://jiguro.lanzouw.com/iixN7255etta The Password : LCAPP )*  
    *Alternate link 2 : 123Pan ( https://www.123pan.com/s/NZi2jv-hjX43.html )*
