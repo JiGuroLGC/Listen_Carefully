@@ -53,9 +53,9 @@
    A  : 因为 **聆 · 音** 才刚刚开始开发 ，我们由于工作的原因 ，我们只能挤出周末的空闲时间来进行代码编写 。但是对于市面上已知的白噪音软件和在日常生活中的实际需求来说 ，这些功能是完全够用的 。
 
 3. Q : 我是特殊区域用户 ，访问有问题怎么办 ？  
-   A  : 没关系 ，我们为您准备了备用的下载链接 ，我们保证备用链接下载的软件和发行版是完全一样的 。而且我们在Gitee等开源社区也有我们的仓库 , 您可以移步到另外的开源社区下载  。
-   *Gitee开源社区仓库链接 : https://gitee.com/jiguro/Listen_Carefully*
-   *备用链接一 : 蓝奏云 ( https://jiguro.lanzouw.com/iixN7255etta 密码 : LCAPP )*
+   A  : 没关系 ，我们为您准备了备用的下载链接 ，我们保证备用链接下载的软件和发行版是完全一样的 。而且我们在Gitee等开源社区也有我们的仓库 , 您可以移步到另外的开源社区下载  。  
+   *Gitee开源社区仓库链接 : https://gitee.com/jiguro/Listen_Carefully*  
+   *备用链接一 : 蓝奏云 ( https://jiguro.lanzouw.com/iixN7255etta 密码 : LCAPP )*  
    *备用链接二 : 123网盘 ( https://www.123pan.com/s/NZi2jv-hjX43.html )*
 
 ## 支持我们
