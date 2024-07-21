@@ -1,10 +1,10 @@
 # Listen_Carefully
 
-## What is Listen_Carefully?
+## What is Listen_Carefully ?
 
-Listen_Carefully is an offline and free white noise player, help people fall asleep quickly, but it currently only supports Chinese.
+Listen_Carefully is an offline and free white noise player , help people fall asleep quickly , but it currently only supports Chinese .
 
-## Why should we develop Listen_Carefully?
+## Why should we develop Listen_Carefully ?
 
 Listen_Carefully has exquisite animations and ultimate sound effects, which are directly packaged and optimized by web engineering. In theory it works for most users, but please make sure your WebView version is not too low. Because the web page is directly packaged into the installation package, this software can run completely offline without being interfered by any network factors and guarantee you a quiet and smooth sleep.
 
