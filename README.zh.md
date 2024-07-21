@@ -23,7 +23,7 @@
 ## 开始使用
 
 1. 下载  
-进入我们的[仓库](https://github.com/JiGuroLGC/Listen_Carefully) ，打开`release`页面 ，下载符合您系统环境的[最新发行版软件](https://github.com/JiGuroLGC/Listen_Carefully/releases) 。
+进入我们的[仓库](https://github.com/JiGuroLGC/Listen_Carefully) ，打开`release`页面 ，下载符合您系统环境的[最新发行版软件](https://github.com/JiGuroLGC/Listen_Carefully/releases)。   
 如果您是特殊区域用户 ，因为网络环境而无法访问 ，请您转到其他问题查看解答 。
 
 2. 安装  
@@ -42,12 +42,12 @@
 
 **聆 · 音** 可以发出各种自然或人文环境的声音 ，比如雨声 、雷声 、夜晚 、农场 、森林 、落叶 . . . . . . 等等 ，您可以随意的调整每种声音的音量 ，并把它们混合在一起 ，形成您独属的白噪音 。它还有定时功能 ，可以在您入睡之后自动关闭 。
 
-<a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png" style="border-radius: 100px"></a>  
+<a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png" style="border-radius: 100px"></a>
 
 ## 其他问题
 
 1. Q : 为什么 **聆 · 音** 没有在我的设备上正常运行 ？  
-   A  : **聆 · 音** 直接由网页工程打包优化而成 ，理论上适用于大多数用户 ，但是请确保您的WebView和安卓版本不要过低或过高 。如果您在确认完这些条件后 ，聆 · 音 还是不能在您的设备上正常运行，可能是 聆 · 音 还未适配您的设备或CPU架构 ，请您向我们提交意见后 ，耐心等待下一个版本的优化升级 。
+   A  : **聆 · 音** 直接由网页工程打包优化而成 ，理论上适用于大多数用户 ，但是请确保您的WebView和安卓版本不要过低或过高 。如果您在确认完这些条件后 ，**聆 · 音** 还是不能在您的设备上正常运行，可能是 **聆 · 音** 还未适配您的设备或CPU架构 ，请您向我们提交意见后 ，耐心等待下一个版本的优化升级 。
 
 2. Q : 为什么 **聆 · 音** 的功能相对来说还是比较少 ?  
    A  : 因为 **聆 · 音** 才刚刚开始开发 ，我们由于工作的原因 ，我们只能挤出周末的空闲时间来进行代码编写 。但是对于市面上已知的白噪音软件和在日常生活中的实际需求来说 ，这些功能是完全够用的 。
