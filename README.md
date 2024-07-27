@@ -34,6 +34,7 @@
 <!-- Short description: -->
   <h3>An offline and free white noise player , help people fall asleep quickly</h3>
 </div>
+
 ## Language
 
 * [English description](README.md)
@@ -42,11 +43,11 @@
 
 ## Introduce
 
-**Listen_Carefully** is an offline and free white noise player , help people fall asleep quickly , but it currently only supports a few languages .
+**Listen_Carefully** is an offline 和 free white noise player , help people fall asleep quickly , but it currently only supports a few languages .
 
 ## Interface Preview
 
-If you want to conveniently and quickly preview the interface of **Listen_Carefully** , please visit the following website : https://jigurolgc.github.io/Listen_Carefully
+If you want to conveniently 和 quickly preview the interface of **Listen_Carefully** , please visit the following website : https://jigurolgc.github.io/Listen_Carefully
 
 ##  Development Background
 
@@ -56,11 +57,11 @@ One day , after a friend recommended it , I learned about white noise . I still 
 
 Until one day , I discovered a website where I heard the best white noise I have ever heard . After using it a few times , I found it inconvenient , so I suddenly thought : Is it possible to use this website through After some transformation and optimization , I made it a white noise APP that is completely free and offline run ? 
 
-Just do it , my friends and I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " Listen To The Light And Have Peace Of Mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
+Just do it , my friends 和 I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " Listen To The Light And Have Peace Of Mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
 
 ## Get Started
 
-1. Download  
+1. 下载  
 Go to our [Repository](https://github.com/JiGuroLGC/Listen_Carefully) , open the `release` page , and download the [latest release software](https://github.com/JiGuroLGC/Listen_Carefully/releases) that matches your system environment .  
 If you are a user in a special area and cannot access it due to the network environment , please go to other questions to view the answers .
 
