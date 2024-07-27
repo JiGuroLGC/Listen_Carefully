@@ -7,6 +7,8 @@
   <h2>Listen To The Light And Have Peace Of Mind</h2>
 <!-- Labels: -->
   <!-- First row: -->
+  <a href="https://black.readthedocs.io/en/stable/?badge=stable"><img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable">
+  </a>
   <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
     <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="license">
   </a>
