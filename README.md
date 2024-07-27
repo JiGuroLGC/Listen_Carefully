@@ -1,38 +1,29 @@
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
-    <img src="https://s2.loli.net/2024/07/21/OXExcDhuk9YSnzJ.png" height="150" alt="ic_launcher.png" style="border-radius: 80px">
+    <img src="https://s2.loli.net/2024/07/21/OXExcDhuk9YSnzJ.png" height="150" alt="ic_launcher.png">
   </a>
   <h1><a href="https://github.com/JiGuroLGC/Listen_Carefully/">Listen_Carefully</a></h1>
   <h2>Listen To The Light And Have Peace Of Mind</h2>
 <!-- Labels: -->
   <!-- First row: -->
-  <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">
-    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square" height="20" alt="Gitpod Ready-to-Code">
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
+    <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="license">
   </a>
-  <a href="https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md">
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
   </a>
-  <img src="https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square" height="20">
-  <a href="https://the-algorithms.com/discord">
-    <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
-  </a>
-  <a href="https://gitter.im/TheAlgorithms/community">
-    <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
-  </a>
-  <!-- Second row: -->
-  <br>
-  <a href="https://github.com/TheAlgorithms/Python/actions">
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
     <img src="https://img.shields.io/github/actions/workflow/status/TheAlgorithms/Python/build.yml?branch=master&label=CI&logo=github&style=flat-square" height="20" alt="GitHub Workflow Status">
   </a>
   <a href="https://github.com/pre-commit/pre-commit">
-    <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=flat-square" height="20" alt="pre-commit">
+    <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white&style=flat-square" height="20" alt="pre-commit">
   </a>
   <a href="https://github.com/psf/black">
     <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
 <!-- Short description: -->
-  <h3>An offline and free white noise player , help people fall asleep quickly</h3>
+  <h3>A free offline white noise player that helps people fall asleep quickly</h3>
 </div>
 
 ## Language
@@ -43,11 +34,11 @@
 
 ## Introduce
 
-**Listen_Carefully** is an offline 和 free white noise player , help people fall asleep quickly , but it currently only supports a few languages .
+**Listen_Carefully** is an offline and free white noise player , help people fall asleep quickly , but it currently only supports a few languages .
 
 ## Interface Preview
 
-If you want to conveniently 和 quickly preview the interface of **Listen_Carefully** , please visit the following website : https://jigurolgc.github.io/Listen_Carefully
+If you want to conveniently and quickly preview the interface of **Listen_Carefully** , please visit the following website : https://jigurolgc.github.io/Listen_Carefully
 
 ##  Development Background
 
@@ -57,11 +48,11 @@ One day , after a friend recommended it , I learned about white noise . I still 
 
 Until one day , I discovered a website where I heard the best white noise I have ever heard . After using it a few times , I found it inconvenient , so I suddenly thought : Is it possible to use this website through After some transformation and optimization , I made it a white noise APP that is completely free and offline run ? 
 
-Just do it , my friends 和 I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " Listen To The Light And Have Peace Of Mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
+Just do it , my friends and I made an APP called **Listen_Carefully** . The reason why we named it **Listen_Carefully** is because we hope that when you use this software, you can " Listen To The Light And Have Peace Of Mind " , just as the welcome message says . After many iterations , the first version of **Listen_Carefully** was born .
 
 ## Get Started
 
-1. 下载  
+1. Download  
 Go to our [Repository](https://github.com/JiGuroLGC/Listen_Carefully) , open the `release` page , and download the [latest release software](https://github.com/JiGuroLGC/Listen_Carefully/releases) that matches your system environment .  
 If you are a user in a special area and cannot access it due to the network environment , please go to other questions to view the answers .
 
