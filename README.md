@@ -44,7 +44,7 @@ Run the software and enjoy !
 
 <a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png" style="border-radius: 100px"></a>
 
-## Miscellaneous questions
+## Miscellaneous Questions
 
 1. Q : Why **Listen_Carefully** Not working properly on my device ?  
    A  : **Listen_Carefully** Directly packaged and optimized by the web project , it is theoretically suitable for most users , but please make sure that your WebView and Android version are not too low or too high . If you have confirmed these conditions , **Listen_Carefully** still does not work properly on your device , it may be **Listen_Carefully** has not yet adapted to your device or CPU architecture , please submit your comments to us , and wait patiently for the next version of the optimization and upgrade .
@@ -58,7 +58,7 @@ Run the software and enjoy !
    *Alternate link 1 : Lan Zouyun ( https://jiguro.lanzouw.com/iixN7255etta The Password : LCAPP )*  
    *Alternate link 2 : 123Pan ( https://www.123pan.com/s/NZi2jv-hjX43.html )*
 
-## Support us
+## Support Us
 
 E-mail : jigurolui@gmail.com / 13979484699@163.com  
 We hope to become an excellent development team and continue to produce excellent works for everyone . If you have any suggestions for improvement , please put them forward directly and we will continue to work hard . Let us work tirelessly and forge ahead on the road to pursuing our dreams ! Thank you all for your help and support !
