@@ -7,6 +7,8 @@
   <h2>聆听光芒 - 音神安详</h2>
 <!-- Labels: -->
   <!-- First row: -->
+  <a href="https://black.readthedocs.io/en/stable/?badge=stable"><img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable">
+  </a>
   <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
     <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="license">
   </a>
@@ -18,9 +20,6 @@
   </a>
   <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white&style=flat-square" height="20" alt="pre-commit">
-  </a>
-  <a href="https://github.com/psf/black">
-    <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
 <!-- Short description: -->
   <h3>一款帮助人们快速入睡离线且免费的白噪音播放器</h3>
