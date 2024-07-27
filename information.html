@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="白噪音放松" />
+    <meta name="description" content="一款免费的离线白噪音工具" />
+    <link rel="shortcut icon" href="favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <title>聆 · 音</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="full-screen" content="yes">
+    <meta name="browsermode" content="application">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="x5-page-mode" content="app">
+    <link rel="stylesheet" href="styles/main.css?ver=18">
+    <style>
+        h1 {
+            color: #ffffff;
+            font-size: 50px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .sign {
+            position: fixed;
+            bottom: 16px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            color: #fff;
+            animation: bottom .5s;
+        }
+
+        button {
+            padding: 5px 30px;
+            background-color: rgba(0, 0, 0, 0.3);
+            color: white;
+            border: 2px solid white;
+            border-radius: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            display: block;
+            margin: 0 auto;
+            z-index: 9999;
+            position: relative;
+        }
+
+        .logo-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+            top: 5px;
+        }
+
+        audio {
+            display: none;
+        }
+    </style>
+
+
+</head>
+.
+
+<body>
+    <audio id="my-audio" autoplay loop>
+        <source src="sound/mp3/ThroughTheArbor.mp3" type="audio/mpeg">
+        <source src="sound/ogg/ThroughTheArbor.ogg" type="audio/ogg">
+        你的设备暂时不支持此软件的某些功能。
+    </audio>
+    <h1> </h1>
+    <h1> </h1>
+    <canvas id="bg"></canvas>
+    <span class="setup active"></span>
+    <script src="javascripts/bg.js"></script>
+    <img src="images/information.png" alt="出现未知错误,无法加载资源。" class="logo-image" width="300" height="280">
+    <h1> </h1>
+    <button onclick="javascript:location.href='return.html';">返回主页</button>
+    <div class="sign">Made by JiGuro</div>
+
+</body>
+
+</html>
