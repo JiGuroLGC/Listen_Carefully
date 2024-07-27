@@ -8,7 +8,11 @@
 
 ## Introduce
 
-**Listen_Carefully** is an offline and free white noise player , help people fall asleep quickly , but it currently only supports Chinese .
+**Listen_Carefully** is an offline and free white noise player , help people fall asleep quickly , but it currently only supports a few languages .
+
+## Interface Preview
+
+If you want to conveniently and quickly preview the interface of **Listen_Carefully** , please visit the following website : https://jigurolgc.github.io/Listen_Carefully
 
 ##  Development Background
 
@@ -67,3 +71,4 @@ We hope to become an excellent development team and continue to produce excellen
 
 This project is inspired by the web page : https://relax.xiangfa.org  
 Development Assistance Software : HopWeb By Treep  ©Venter 2023.
+
