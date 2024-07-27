@@ -65,5 +65,6 @@ We hope to become an excellent development team and continue to produce excellen
 
 ## Acknowledgments
 
-> This project is inspired by the web page : https://relax.xiangfa.org  
+This project is inspired by the web page :  
+> https://relax.xiangfa.org
 Development Assistance Software : HopWeb By Treep  ©Venter 2023.
