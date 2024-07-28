@@ -31,8 +31,8 @@
   <a href="https://github.com/JiGuroLGC/Listen_Carefully/releases">
     <img src="https://img.shields.io/badge/download-lastest_now-white?branch=master&color=FF90E8" height="20" alt="download">
   </a>
-  <a href="https://black.readthedocs.io/en/stable/?badge=stable">
-    <img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable">
+  <a href="https://jigurolgc.github.io/Listen_Carefully">
+    <img alt="Page_Online" src="https://img.shields.io/badge/webpage-online-white?branch=master&color=25A162">
   </a>
 <!-- Short description: -->
   <h3>A free offline white noise player that helps people fall asleep quickly</h3>
