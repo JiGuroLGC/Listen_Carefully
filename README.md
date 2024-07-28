@@ -6,30 +6,42 @@
   <h1><a href="https://github.com/JiGuroLGC/Listen_Carefully/">Listen_Carefully</a></h1>
   <h2>Listen To The Light And Have Peace Of Mind</h2>
 <!-- Labels: -->
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/README.md">
+    <img src="https://img.shields.io/badge/language-html-red?logo=html5" height="20" alt="html">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/README.md">
+    <img src="https://img.shields.io/badge/language-javascript-white?logo=javascript&color=F7DF1E" height="20" alt="javascript">
+  </a>
+    <a href="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/README.md">
+    <img src="https://img.shields.io/badge/language-css-white?logo=css3" height="20" alt="css">
+  </a><br>
   <!-- First row: -->
-  <a href="https://black.readthedocs.io/en/stable/?badge=stable"><img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable">
-  </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
-    <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="license">
-  </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
-    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
-  </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
-    <img src="https://img.shields.io/github/actions/workflow/status/TheAlgorithms/Python/build.yml?branch=master&label=CI&logo=github&style=flat-square" height="20" alt="GitHub Workflow Status">
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/README.md">
+    <img src="https://img.shields.io/github/license/JiGuroLGC/Listen_Carefully?color=pink&logo=bookstack&logoColor=pink" height="20" alt="license">
   </a>
   <a href="https://github.com/pre-commit/pre-commit">
-    <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white&style=flat-square" height="20" alt="pre-commit">
+    <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white" height="20" alt="pre-commit">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully">
+    <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="repo-size">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully">
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3" height="20" alt="Contributions Welcome">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/releases">
+    <img src="https://img.shields.io/badge/download-lastest_now-white?branch=master&color=FF90E8" height="20" alt="download">
+  </a>
+  <a href="https://black.readthedocs.io/en/stable/?badge=stable">
+    <img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable">
   </a>
 <!-- Short description: -->
   <h3>A free offline white noise player that helps people fall asleep quickly</h3>
 </div>
-
 ## Language
 
-* [English description](README.md)
-
 * [中文说明](README.zh.md)
+
+* [English description](README.md)
 
 ## Introduce
 
