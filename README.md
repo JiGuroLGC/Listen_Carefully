@@ -76,7 +76,7 @@ Run the software and enjoy !
 
 ## Features
 
-<a target="_blank"><img src="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/sample%20diagram%2FSample1.png" alt="Test Screenshot 1.png" style="border-radius: 100px"></a>
+<a target="_blank"><img src="./sample diagram/Sample1.png" alt="Test Screenshot 1.png" style="border-radius: 100px"></a>
 
 **Listen_Carefully** has exquisite animations and ultimate sound effects . Because the web page is directly packaged into the installation package , this software can run completely offline without being disturbed by any network factors , ensuring that you can sleep quietly and smoothly .
 
