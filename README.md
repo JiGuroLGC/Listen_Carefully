@@ -76,21 +76,15 @@ Run the software and enjoy !
 
 ## Features
 
-<a href="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample1.png" target="_blank">
-  <img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample1.png" alt="Sample Diagram 1">
-</a>
+<a href="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" alt="Test Screenshot 1.png"></a>
 
 **Listen_Carefully** has exquisite animations and ultimate sound effects . Because the web page is directly packaged into the installation package , this software can run completely offline without being disturbed by any network factors , ensuring that you can sleep quietly and smoothly .
 
-<a href="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample2.png" target="_blank">
-  <img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample2.png" alt="Sample Diagram 2">
-</a>
+<a href="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" alt="Test Screenshot 2.png"></a>
 
 **Listen_Carefully** can emit sounds from various natural or cultural environments , such as rain , thunder , night , farm , forest , fallen leaves . . . etc. You can adjust the volume of each sound at will . And mix them together to create your own white noise . It also has a timer function that automatically turns off after you fall asleep .
 
-<a href="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample3.png" target="_blank">
-  <img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/JiGuroLGC/Listen_Carefully/master/sample diagram/Sample3.png" alt="Sample Diagram 3">
-</a>
+<a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png"></a>
 
 ## Miscellaneous Questions
 
@@ -115,4 +109,3 @@ We hope to become an excellent development team and continue to produce excellen
 
 This project is inspired by the web page : https://relax.xiangfa.org  
 Development Assistance Software : HopWeb By Treep  ©Venter 2023.
-

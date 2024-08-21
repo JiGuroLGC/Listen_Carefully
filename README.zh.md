@@ -76,15 +76,15 @@
 
 ##  功能特点
 
-<a href="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" alt="Test Screenshot 1.png" style="border-radius: 100px"></a>
+<a href="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/zt6lV3QniqOXdPc.png" alt="Test Screenshot 1.png"></a>
 
 **聆 · 音** 有着精美的动画和极致的音效 ，因为直接把网页打包进了安装包 ，所以此软件可以完全离线运行 ，不受任何网络因素的干扰 ，保证您安静畅通的入睡 。
 
-<a href="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" alt="Test Screenshot 2.png" style="border-radius: 100px"></a>
+<a href="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/fVJtSQIurpwWvcs.png" alt="Test Screenshot 2.png"></a>
 
 **聆 · 音** 可以发出各种自然或人文环境的声音 ，比如雨声 、雷声 、夜晚 、农场 、森林 、落叶 . . . . . . 等等 ，您可以随意的调整每种声音的音量 ，并把它们混合在一起 ，形成您独属的白噪音 。它还有定时功能 ，可以在您入睡之后自动关闭 。
 
-<a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png" style="border-radius: 100px"></a>
+<a href="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" target="_blank"><img src="https://s2.loli.net/2024/07/21/8teAdvFOolCxBDV.png" alt="Test Screenshot 3.png"></a>
 
 ## 其他问题
 
