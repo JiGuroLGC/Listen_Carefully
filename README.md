@@ -102,7 +102,7 @@ Run the software and enjoy !
 
 ## Support Us
 
-E-mail : jigurolui@gmail.com / 13979484699@163.com  
+E-mail : jigurolui@gmail.com / JiGuroLiu@qq.com  
 We hope to become an excellent development team and continue to produce excellent works for everyone . If you have any suggestions for improvement , please put them forward directly and we will continue to work hard . Let us work tirelessly and forge ahead on the road to pursuing our dreams ! Thank you all for your help and support !
 
 ## Acknowledgments
